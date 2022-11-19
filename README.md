@@ -1,3 +1,8 @@
 # IBM-Project-48399-1660807192
-Smart Solutions For Railways
-[![](https://markdown-videos.deta.dev/youtube/{Si5Li1XYv4g})](https://youtu.be/{Si5Li1XYv4g})
+Smart Solutions For Railway
+
+<a href="https://youtu.be/Si5Li1XYv4g" title="Smart Solutions For Railway Video Demo">
+  <p align="center">
+    <img width="75%" src="https://img.youtube.com/vi/Si5Li1XYv4g/maxresdefault.jpg" alt="Smart Solutions For Railway Video Demo Thumbnail"/>
+  </p>
+</a>
